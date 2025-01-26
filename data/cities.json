@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "date": "2024-05-22T06:26:32.922Z",
+      "emoji": "🇪🇬",
+      "notes": "",
+      "position": {
+        "lat": "29.475021032990906",
+        "lng": "31.240980139551866"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "El Bonillo",
+      "country": "Spain",
+      "date": "2024-05-22T08:20:03.334Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "38.9040769134202",
+        "lng": "-2.3749545137760846"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Landrais",
+      "country": "France",
+      "date": "2025-01-26T08:08:21.908Z",
+      "emoji": "🇫🇷",
+      "notes": "ll",
+      "position": {
+        "lat": "46.056079217978834",
+        "lng": "-0.8579182025083255"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "date": "2025-01-26T08:11:05.138Z",
+      "emoji": "🇮🇹",
+      "notes": "someday",
+      "position": {
+        "lat": "41.69816831802571",
+        "lng": "12.817466073535561"
+      },
+      "id": 98443205
+    }
+  ]
+}
